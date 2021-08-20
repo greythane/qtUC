@@ -1,0 +1,878 @@
+<!DOCTYPE RCC>
+<RCC>
+  <qresource prefix="icons">
+    <file alias="appicon">images/radio.png</file>
+    <file alias="config">images/radio_settings.png</file>
+    <file alias="info">images/info.png</file>
+    <file alias="pvtcall">images/pvtcall_sm.png</file>
+    <file alias="chat">images/chat_sm.png</file>
+    <file alias="edit">images/edit.png</file>
+  </qresource>
+  <qresource prefix="images">
+    <file alias="genchat">images/chatcall.png</file>
+    <file alias="netradio">images/networkradio.png</file>
+    <!-- <file alias="smeter">images/smeter_bg.png</file>  -->
+  </qresource>
+  <qresource prefix="flags">
+    <file alias="ad">images/flags/ad.png</file>
+    <file alias="ae">images/flags/ae.png</file>
+    <file alias="af">images/flags/af.png</file>
+    <file alias="ae">images/flags/ag.png</file>
+    <file alias="ai">images/flags/ai.png</file>
+    <file alias="al">images/flags/al.png</file>
+    <file alias="am">images/flags/am.png</file>
+    <file alias="ao">images/flags/ao.png</file>
+    <file alias="aq">images/flags/aq.png</file>
+    <file alias="ar">images/flags/ar.png</file>
+    <file alias="as">images/flags/as.png</file>
+    <file alias="at">images/flags/at.png</file>
+    <file alias="au">images/flags/au.png</file>
+    <file alias="aw">images/flags/aw.png</file>
+    <file alias="ax">images/flags/ax.png</file>
+    <file alias="az">images/flags/az.png</file>
+    <file alias="ba">images/flags/ba.png</file>
+    <file alias="bb">images/flags/bb.png</file>
+    <file alias="bd">images/flags/bd.png</file>
+    <file alias="be">images/flags/be.png</file>
+    <file alias="bf">images/flags/bf.png</file>
+    <file alias="bg">images/flags/bg.png</file>
+    <file alias="bh">images/flags/bh.png</file>
+    <file alias="bi">images/flags/bi.png</file>
+    <file alias="bj">images/flags/bj.png</file>
+    <file alias="bl">images/flags/bl.png</file>
+    <file alias="bm">images/flags/bm.png</file>
+    <file alias="bn">images/flags/bn.png</file>
+    <file alias="bo">images/flags/bo.png</file>
+    <file alias="bq">images/flags/bq.png</file>
+    <file alias="br">images/flags/br.png</file>
+    <file alias="bs">images/flags/bs.png</file>
+    <file alias="bt">images/flags/bt.png</file>
+    <file alias="bv">images/flags/bv.png</file>
+    <file alias="bw">images/flags/bw.png</file>
+    <file alias="by">images/flags/by.png</file>
+    <file alias="bz">images/flags/bz.png</file>
+    <file alias="ca">images/flags/ca.png</file>
+    <file alias="cc">images/flags/cc.png</file>
+    <file alias="cd">images/flags/cd.png</file>
+    <file alias="cf">images/flags/cf.png</file>
+    <file alias="cg">images/flags/cg.png</file>
+    <file alias="ch">images/flags/ch.png</file>
+    <file alias="ci">images/flags/ci.png</file>
+    <file alias="ck">images/flags/ck.png</file>
+    <file alias="cl">images/flags/cl.png</file>
+    <file alias="cm">images/flags/cm.png</file>
+    <file alias="cn">images/flags/cn.png</file>
+    <file alias="co">images/flags/co.png</file>
+    <file alias="cr">images/flags/cr.png</file>
+    <file alias="cu">images/flags/cu.png</file>
+    <file alias="cv">images/flags/cv.png</file>
+    <file alias="cw">images/flags/cw.png</file>
+    <file alias="cx">images/flags/cx.png</file>
+    <file alias="cy">images/flags/cy.png</file>
+    <file alias="cz">images/flags/cz.png</file>
+    <file alias="de">images/flags/de.png</file>
+    <file alias="dj">images/flags/dj.png</file>
+    <file alias="dk">images/flags/dk.png</file>
+    <file alias="dm">images/flags/dm.png</file>
+    <file alias="do">images/flags/do.png</file>
+    <file alias="dz">images/flags/dz.png</file>
+    <file alias="ec">images/flags/ec.png</file>
+    <file alias="ee">images/flags/ee.png</file>
+    <file alias="rg">images/flags/eg.png</file>
+    <file alias="eh">images/flags/eh.png</file>
+    <file alias="er">images/flags/er.png</file>
+    <file alias="es">images/flags/es.png</file>
+    <file alias="et">images/flags/et.png</file>
+    <file alias="fi">images/flags/fi.png</file>
+    <file alias="fj">images/flags/fj.png</file>
+    <file alias="fk">images/flags/fk.png</file>
+    <file alias="fm">images/flags/fm.png</file>
+    <file alias="fo">images/flags/fo.png</file>
+    <file alias="fr">images/flags/fr.png</file>
+    <file alias="ga">images/flags/ga.png</file>
+    <file alias="gb-eng">images/flags/gb-eng.png</file>
+    <file alias="gb-nir">images/flags/gb-nir.png</file>
+    <file alias="gb-sct">images/flags/gb-sct.png</file>
+    <file alias="gb-wls">images/flags/gb-wls.png</file>
+    <file alias="gb">images/flags/gb.png</file>
+    <file alias="gd">images/flags/gd.png</file>
+    <file alias="ge">images/flags/ge.png</file>
+    <file alias="gf">images/flags/gf.png</file>
+    <file alias="gg">images/flags/gg.png</file>
+    <file alias="gh">images/flags/gh.png</file>
+    <file alias="gi">images/flags/gi.png</file>
+    <file alias="gl">images/flags/gl.png</file>
+    <file alias="gm">images/flags/gm.png</file>
+    <file alias="gn">images/flags/gn.png</file>
+    <file alias="gp">images/flags/gp.png</file>
+    <file alias="gq">images/flags/gq.png</file>
+    <file alias="gr">images/flags/gr.png</file>
+    <file alias="gs">images/flags/gs.png</file>
+    <file alias="gt">images/flags/gt.png</file>
+    <file alias="gu">images/flags/gu.png</file>
+    <file alias="gw">images/flags/gw.png</file>
+    <file alias="gy">images/flags/gy.png</file>
+    <file alias="hk">images/flags/hk.png</file>
+    <file alias="hm">images/flags/hm.png</file>
+    <file alias="hn">images/flags/hn.png</file>
+    <file alias="hr">images/flags/hr.png</file>
+    <file alias="ht">images/flags/ht.png</file>
+    <file alias="hu">images/flags/hu.png</file>
+    <file alias="id">images/flags/id.png</file>
+    <file alias="ie">images/flags/ie.png</file>
+    <file alias="il">images/flags/il.png</file>
+    <file alias="im">images/flags/im.png</file>
+    <file alias="in">images/flags/in.png</file>
+    <file alias="io">images/flags/io.png</file>
+    <file alias="iq">images/flags/iq.png</file>
+    <file alias="ir">images/flags/ir.png</file>
+    <file alias="is">images/flags/is.png</file>
+    <file alias="it">images/flags/it.png</file>
+    <file alias="je">images/flags/je.png</file>
+    <file alias="jm">images/flags/jm.png</file>
+    <file alias="jo">images/flags/jo.png</file>
+    <file alias="jp">images/flags/jp.png</file>
+    <file alias="ke">images/flags/ke.png</file>
+    <file alias="kg">images/flags/kg.png</file>
+    <file alias="kh">images/flags/kh.png</file>
+    <file alias="ki">images/flags/ki.png</file>
+    <file alias="km">images/flags/km.png</file>
+    <file alias="kn">images/flags/kn.png</file>
+    <file alias="kp">images/flags/kp.png</file>
+    <file alias="kr">images/flags/kr.png</file>
+    <file alias="kw">images/flags/kw.png</file>
+    <file alias="ky">images/flags/ky.png</file>
+    <file alias="kz">images/flags/kz.png</file>
+    <file alias="la">images/flags/la.png</file>
+    <file alias="lb">images/flags/lb.png</file>
+    <file alias="lc">images/flags/lc.png</file>
+    <file alias="li">images/flags/li.png</file>
+    <file alias="lk">images/flags/lk.png</file>
+    <file alias="lr">images/flags/lr.png</file>
+    <file alias="ls">images/flags/ls.png</file>
+    <file alias="lt">images/flags/lt.png</file>
+    <file alias="lu">images/flags/lu.png</file>
+    <file alias="lv">images/flags/lv.png</file>
+    <file alias="ly">images/flags/ly.png</file>
+    <file alias="ma">images/flags/ma.png</file>
+    <file alias="mc">images/flags/mc.png</file>
+    <file alias="md">images/flags/md.png</file>
+    <file alias="me">images/flags/me.png</file>
+    <file alias="mf">images/flags/mf.png</file>
+    <file alias="mg">images/flags/mg.png</file>
+    <file alias="mh">images/flags/mh.png</file>
+    <file alias="mk">images/flags/mk.png</file>
+    <file alias="ml">images/flags/ml.png</file>
+    <file alias="mm">images/flags/mm.png</file>
+    <file alias="mn">images/flags/mn.png</file>
+    <file alias="mo">images/flags/mo.png</file>
+    <file alias="mp">images/flags/mp.png</file>
+    <file alias="mq">images/flags/mq.png</file>
+    <file alias="mr">images/flags/mr.png</file>
+    <file alias="ms">images/flags/ms.png</file>
+    <file alias="mt">images/flags/mt.png</file>
+    <file alias="mu">images/flags/mu.png</file>
+    <file alias="mv">images/flags/mv.png</file>
+    <file alias="mw">images/flags/mw.png</file>
+    <file alias="mx">images/flags/mx.png</file>
+    <file alias="my">images/flags/my.png</file>
+    <file alias="mz">images/flags/mz.png</file>
+    <file alias="na">images/flags/na.png</file>
+    <file alias="nc">images/flags/nc.png</file>
+    <file alias="ne">images/flags/ne.png</file>
+    <file alias="nf">images/flags/nf.png</file>
+    <file alias="ng">images/flags/ng.png</file>
+    <file alias="ni">images/flags/ni.png</file>
+    <file alias="nl">images/flags/nl.png</file>
+    <file alias="no">images/flags/no.png</file>
+    <file alias="np">images/flags/np.png</file>
+    <file alias="nr">images/flags/nr.png</file>
+    <file alias="nu">images/flags/nu.png</file>
+    <file alias="nz">images/flags/nz.png</file>
+    <file alias="om">images/flags/om.png</file>
+    <file alias="pa">images/flags/pa.png</file>
+    <file alias="pe">images/flags/pe.png</file>
+    <file alias="pf">images/flags/pf.png</file>
+    <file alias="pg">images/flags/pg.png</file>
+    <file alias="ph">images/flags/ph.png</file>
+    <file alias="pk">images/flags/pk.png</file>
+    <file alias="pl">images/flags/pl.png</file>
+    <file alias="pm">images/flags/pm.png</file>
+    <file alias="pn">images/flags/pn.png</file>
+    <file alias="pr">images/flags/pr.png</file>
+    <file alias="ps">images/flags/ps.png</file>
+    <file alias="pt">images/flags/pt.png</file>
+    <file alias="pw">images/flags/pw.png</file>
+    <file alias="py">images/flags/py.png</file>
+    <file alias="qa">images/flags/qa.png</file>
+    <file alias="re">images/flags/re.png</file>
+    <file alias="ro">images/flags/ro.png</file>
+    <file alias="rs">images/flags/rs.png</file>
+    <file alias="ru">images/flags/ru.png</file>
+    <file alias="rw">images/flags/rw.png</file>
+    <file alias="sa">images/flags/sa.png</file>
+    <file alias="sb">images/flags/sb.png</file>
+    <file alias="sc">images/flags/sc.png</file>
+    <file alias="sd">images/flags/sd.png</file>
+    <file alias="se">images/flags/se.png</file>
+    <file alias="sg">images/flags/sg.png</file>
+    <file alias="sh">images/flags/sh.png</file>
+    <file alias="si">images/flags/si.png</file>
+    <file alias="sj">images/flags/sj.png</file>
+    <file alias="sk">images/flags/sk.png</file>
+    <file alias="sl">images/flags/sl.png</file>
+    <file alias="sm">images/flags/sm.png</file>
+    <file alias="sn">images/flags/sn.png</file>
+    <file alias="so">images/flags/so.png</file>
+    <file alias="sr">images/flags/sr.png</file>
+    <file alias="ss">images/flags/ss.png</file>
+    <file alias="st">images/flags/st.png</file>
+    <file alias="sv">images/flags/sv.png</file>
+    <file alias="sx">images/flags/sx.png</file>
+    <file alias="sy">images/flags/sy.png</file>
+    <file alias="sz">images/flags/sz.png</file>
+    <file alias="tc">images/flags/tc.png</file>
+    <file alias="td">images/flags/td.png</file>
+    <file alias="tf">images/flags/tf.png</file>
+    <file alias="tg">images/flags/tg.png</file>
+    <file alias="th">images/flags/th.png</file>
+    <file alias="tj">images/flags/tj.png</file>
+    <file alias="tk">images/flags/tk.png</file>
+    <file alias="tl">images/flags/tl.png</file>
+    <file alias="tm">images/flags/tm.png</file>
+    <file alias="tn">images/flags/tn.png</file>
+    <file alias="to">images/flags/to.png</file>
+    <file alias="tr">images/flags/tr.png</file>
+    <file alias="tt">images/flags/tt.png</file>
+    <file alias="tv">images/flags/tv.png</file>
+    <file alias="tw">images/flags/tw.png</file>
+    <file alias="tz">images/flags/tz.png</file>
+    <file alias="ua">images/flags/ua.png</file>
+    <file alias="ug">images/flags/ug.png</file>
+    <file alias="um">images/flags/um.png</file>
+    <file alias="un">images/flags/un.png</file>
+    <file alias="us">images/flags/us.png</file>
+    <file alias="uy">images/flags/uy.png</file>
+    <file alias="uz">images/flags/uz.png</file>
+    <file alias="va">images/flags/va.png</file>
+    <file alias="vc">images/flags/vc.png</file>
+    <file alias="ve">images/flags/ve.png</file>
+    <file alias="vg">images/flags/vg.png</file>
+    <file alias="vi">images/flags/vi.png</file>
+    <file alias="vn">images/flags/vn.png</file>
+    <file alias="vu">images/flags/vu.png</file>
+    <file alias="wf">images/flags/wf.png</file>
+    <file alias="ws">images/flags/ws.png</file>
+    <file alias="xk">images/flags/xk.png</file>
+    <file alias="ye">images/flags/ye.png</file>
+    <file alias="yt">images/flags/yt.png</file>
+    <file alias="za">images/flags/za.png</file>
+    <file alias="zm">images/flags/zm.png</file>
+    <file alias="zw">images/flags/zw.png</file>
+  </qresource>
+  <qresource>
+    <file>styles/breeze/light/hmovetoolbar.svg</file>
+    <file>styles/breeze/light/vmovetoolbar.svg</file>
+    <file>styles/breeze/light/hsepartoolbar.svg</file>
+    <file>styles/breeze/light/vsepartoolbars.svg</file>
+    <file>styles/breeze/light/stylesheet-branch-end.svg</file>
+    <file>styles/breeze/light/stylesheet-branch-end-closed.svg</file>
+    <file>styles/breeze/light/stylesheet-branch-end-open.svg</file>
+    <file>styles/breeze/light/stylesheet-vline.svg</file>
+    <file>styles/breeze/light/stylesheet-branch-more.svg</file>
+    <file>styles/breeze/light/branch_closed.svg</file>
+    <file>styles/breeze/light/branch_closed-on.svg</file>
+    <file>styles/breeze/light/branch_open.svg</file>
+    <file>styles/breeze/light/branch_open-on.svg</file>
+    <file>styles/breeze/light/down_arrow.svg</file>
+    <file>styles/breeze/light/down_arrow_disabled.svg</file>
+    <file>styles/breeze/light/down_arrow-hover.svg</file>
+    <file>styles/breeze/light/left_arrow.svg</file>
+    <file>styles/breeze/light/left_arrow_disabled.svg</file>
+    <file>styles/breeze/light/right_arrow.svg</file>
+    <file>styles/breeze/light/right_arrow_disabled.svg</file>
+    <file>styles/breeze/light/up_arrow.svg</file>
+    <file>styles/breeze/light/up_arrow_disabled.svg</file>
+    <file>styles/breeze/light/up_arrow-hover.svg</file>
+    <file>styles/breeze/light/sizegrip.svg</file>
+    <file>styles/breeze/light/transparent.svg</file>
+    <file>styles/breeze/light/close.svg</file>
+    <file>styles/breeze/light/close-hover.svg</file>
+    <file>styles/breeze/light/close-pressed.svg</file>
+    <file>styles/breeze/light/undock.svg</file>
+    <file>styles/breeze/light/undock-hover.svg</file>
+    <file>styles/breeze/light/checkbox_checked-hover.svg</file>
+    <file>styles/breeze/light/checkbox_checked.svg</file>
+    <file>styles/breeze/light/checkbox_checked_disabled.svg</file>
+    <file>styles/breeze/light/checkbox_indeterminate.svg</file>
+    <file>styles/breeze/light/checkbox_indeterminate-hover.svg</file>
+    <file>styles/breeze/light/checkbox_indeterminate_disabled.svg</file>
+    <file>styles/breeze/light/checkbox_unchecked-hover.svg</file>
+    <file>styles/breeze/light/checkbox_unchecked_disabled.svg</file>
+    <file>styles/breeze/light/radio_checked-hover.svg</file>
+    <file>styles/breeze/light/radio_checked.svg</file>
+    <file>styles/breeze/light/radio_checked_disabled.svg</file>
+    <file>styles/breeze/light/radio_unchecked-hover.svg</file>
+    <file>styles/breeze/light/radio_unchecked_disabled.svg</file>
+    <file>styles/breeze/dark/hmovetoolbar.svg</file>
+    <file>styles/breeze/dark/vmovetoolbar.svg</file>
+    <file>styles/breeze/dark/hsepartoolbar.svg</file>
+    <file>styles/breeze/dark/vsepartoolbars.svg</file>
+    <file>styles/breeze/dark/stylesheet-branch-end.svg</file>
+    <file>styles/breeze/dark/stylesheet-branch-end-closed.svg</file>
+    <file>styles/breeze/dark/stylesheet-branch-end-open.svg</file>
+    <file>styles/breeze/dark/stylesheet-vline.svg</file>
+    <file>styles/breeze/dark/stylesheet-branch-more.svg</file>
+    <file>styles/breeze/dark/branch_closed.svg</file>
+    <file>styles/breeze/dark/branch_closed-on.svg</file>
+    <file>styles/breeze/dark/branch_open.svg</file>
+    <file>styles/breeze/dark/branch_open-on.svg</file>
+    <file>styles/breeze/dark/down_arrow.png</file>
+    <file>styles/breeze/dark/down_arrow_disabled.svg</file>
+    <file>styles/breeze/dark/down_arrow-hover.svg</file>
+    <file>styles/breeze/dark/left_arrow.svg</file>
+    <file>styles/breeze/dark/left_arrow_disabled.svg</file>
+    <file>styles/breeze/dark/right_arrow.svg</file>
+    <file>styles/breeze/dark/right_arrow_disabled.svg</file>
+    <file>styles/breeze/dark/up_arrow.png</file>
+    <file>styles/breeze/dark/up_arrow_disabled.svg</file>
+    <file>styles/breeze/dark/up_arrow-hover.svg</file>
+    <file>styles/breeze/dark/sizegrip.svg</file>
+    <file>styles/breeze/dark/transparent.svg</file>
+    <file>styles/breeze/dark/close.svg</file>
+    <file>styles/breeze/dark/close-hover.svg</file>
+    <file>styles/breeze/dark/close-pressed.svg</file>
+    <file>styles/breeze/dark/undock.svg</file>
+    <file>styles/breeze/dark/undock-hover.svg</file>
+    <file>styles/breeze/dark/checkbox_checked.svg</file>
+    <file>styles/breeze/dark/checkbox_checked_disabled.svg</file>
+    <file>styles/breeze/dark/checkbox_indeterminate.svg</file>
+    <file>styles/breeze/dark/checkbox_indeterminate_disabled.svg</file>
+    <file>styles/breeze/dark/checkbox_unchecked.svg</file>
+    <file>styles/breeze/dark/checkbox_unchecked_disabled.svg</file>
+    <file>styles/breeze/dark/radio_checked.svg</file>
+    <file>styles/breeze/dark/radio_checked_disabled.svg</file>
+    <file>styles/breeze/dark/radio_unchecked.svg</file>
+    <file>styles/breeze/dark/radio_unchecked_disabled.svg</file>
+
+    <file>styles/qdark/rc/arrow_down.png</file>
+    <file>styles/qdark/rc/arrow_down@2x.png</file>
+    <file>styles/qdark/rc/arrow_down_disabled.png</file>
+    <file>styles/qdark/rc/arrow_down_disabled@2x.png</file>
+    <file>styles/qdark/rc/arrow_down_focus.png</file>
+    <file>styles/qdark/rc/arrow_down_focus@2x.png</file>
+    <file>styles/qdark/rc/arrow_down_pressed.png</file>
+    <file>styles/qdark/rc/arrow_down_pressed@2x.png</file>
+    <file>styles/qdark/rc/arrow_left.png</file>
+    <file>styles/qdark/rc/arrow_left@2x.png</file>
+    <file>styles/qdark/rc/arrow_left_disabled.png</file>
+    <file>styles/qdark/rc/arrow_left_disabled@2x.png</file>
+    <file>styles/qdark/rc/arrow_left_focus.png</file>
+    <file>styles/qdark/rc/arrow_left_focus@2x.png</file>
+    <file>styles/qdark/rc/arrow_left_pressed.png</file>
+    <file>styles/qdark/rc/arrow_left_pressed@2x.png</file>
+    <file>styles/qdark/rc/arrow_right.png</file>
+    <file>styles/qdark/rc/arrow_right@2x.png</file>
+    <file>styles/qdark/rc/arrow_right_disabled.png</file>
+    <file>styles/qdark/rc/arrow_right_disabled@2x.png</file>
+    <file>styles/qdark/rc/arrow_right_focus.png</file>
+    <file>styles/qdark/rc/arrow_right_focus@2x.png</file>
+    <file>styles/qdark/rc/arrow_right_pressed.png</file>
+    <file>styles/qdark/rc/arrow_right_pressed@2x.png</file>
+    <file>styles/qdark/rc/arrow_up.png</file>
+    <file>styles/qdark/rc/arrow_up@2x.png</file>
+    <file>styles/qdark/rc/arrow_up_disabled.png</file>
+    <file>styles/qdark/rc/arrow_up_disabled@2x.png</file>
+    <file>styles/qdark/rc/arrow_up_focus.png</file>
+    <file>styles/qdark/rc/arrow_up_focus@2x.png</file>
+    <file>styles/qdark/rc/arrow_up_pressed.png</file>
+    <file>styles/qdark/rc/arrow_up_pressed@2x.png</file>
+    <file>styles/qdark/rc/base_icon.png</file>
+    <file>styles/qdark/rc/base_icon@2x.png</file>
+    <file>styles/qdark/rc/base_icon_disabled.png</file>
+    <file>styles/qdark/rc/base_icon_disabled@2x.png</file>
+    <file>styles/qdark/rc/base_icon_focus.png</file>
+    <file>styles/qdark/rc/base_icon_focus@2x.png</file>
+    <file>styles/qdark/rc/base_icon_pressed.png</file>
+    <file>styles/qdark/rc/base_icon_pressed@2x.png</file>
+    <file>styles/qdark/rc/branch_closed.png</file>
+    <file>styles/qdark/rc/branch_closed@2x.png</file>
+    <file>styles/qdark/rc/branch_closed_disabled.png</file>
+    <file>styles/qdark/rc/branch_closed_disabled@2x.png</file>
+    <file>styles/qdark/rc/branch_closed_focus.png</file>
+    <file>styles/qdark/rc/branch_closed_focus@2x.png</file>
+    <file>styles/qdark/rc/branch_closed_pressed.png</file>
+    <file>styles/qdark/rc/branch_closed_pressed@2x.png</file>
+    <file>styles/qdark/rc/branch_end.png</file>
+    <file>styles/qdark/rc/branch_end@2x.png</file>
+    <file>styles/qdark/rc/branch_end_disabled.png</file>
+    <file>styles/qdark/rc/branch_end_disabled@2x.png</file>
+    <file>styles/qdark/rc/branch_end_focus.png</file>
+    <file>styles/qdark/rc/branch_end_focus@2x.png</file>
+    <file>styles/qdark/rc/branch_end_pressed.png</file>
+    <file>styles/qdark/rc/branch_end_pressed@2x.png</file>
+    <file>styles/qdark/rc/branch_line.png</file>
+    <file>styles/qdark/rc/branch_line@2x.png</file>
+    <file>styles/qdark/rc/branch_line_disabled.png</file>
+    <file>styles/qdark/rc/branch_line_disabled@2x.png</file>
+    <file>styles/qdark/rc/branch_line_focus.png</file>
+    <file>styles/qdark/rc/branch_line_focus@2x.png</file>
+    <file>styles/qdark/rc/branch_line_pressed.png</file>
+    <file>styles/qdark/rc/branch_line_pressed@2x.png</file>
+    <file>styles/qdark/rc/branch_more.png</file>
+    <file>styles/qdark/rc/branch_more@2x.png</file>
+    <file>styles/qdark/rc/branch_more_disabled.png</file>
+    <file>styles/qdark/rc/branch_more_disabled@2x.png</file>
+    <file>styles/qdark/rc/branch_more_focus.png</file>
+    <file>styles/qdark/rc/branch_more_focus@2x.png</file>
+    <file>styles/qdark/rc/branch_more_pressed.png</file>
+    <file>styles/qdark/rc/branch_more_pressed@2x.png</file>
+    <file>styles/qdark/rc/branch_open.png</file>
+    <file>styles/qdark/rc/branch_open@2x.png</file>
+    <file>styles/qdark/rc/branch_open_disabled.png</file>
+    <file>styles/qdark/rc/branch_open_disabled@2x.png</file>
+    <file>styles/qdark/rc/branch_open_focus.png</file>
+    <file>styles/qdark/rc/branch_open_focus@2x.png</file>
+    <file>styles/qdark/rc/branch_open_pressed.png</file>
+    <file>styles/qdark/rc/branch_open_pressed@2x.png</file>
+    <file>styles/qdark/rc/checkbox_checked.png</file>
+    <file>styles/qdark/rc/checkbox_checked@2x.png</file>
+    <file>styles/qdark/rc/checkbox_checked_disabled.png</file>
+    <file>styles/qdark/rc/checkbox_checked_disabled@2x.png</file>
+    <file>styles/qdark/rc/checkbox_checked_focus.png</file>
+    <file>styles/qdark/rc/checkbox_checked_focus@2x.png</file>
+    <file>styles/qdark/rc/checkbox_checked_pressed.png</file>
+    <file>styles/qdark/rc/checkbox_checked_pressed@2x.png</file>
+    <file>styles/qdark/rc/checkbox_indeterminate.png</file>
+    <file>styles/qdark/rc/checkbox_indeterminate@2x.png</file>
+    <file>styles/qdark/rc/checkbox_indeterminate_disabled.png</file>
+    <file>styles/qdark/rc/checkbox_indeterminate_disabled@2x.png</file>
+    <file>styles/qdark/rc/checkbox_indeterminate_focus.png</file>
+    <file>styles/qdark/rc/checkbox_indeterminate_focus@2x.png</file>
+    <file>styles/qdark/rc/checkbox_indeterminate_pressed.png</file>
+    <file>styles/qdark/rc/checkbox_indeterminate_pressed@2x.png</file>
+    <file>styles/qdark/rc/checkbox_unchecked.png</file>
+    <file>styles/qdark/rc/checkbox_unchecked@2x.png</file>
+    <file>styles/qdark/rc/checkbox_unchecked_disabled.png</file>
+    <file>styles/qdark/rc/checkbox_unchecked_disabled@2x.png</file>
+    <file>styles/qdark/rc/checkbox_unchecked_focus.png</file>
+    <file>styles/qdark/rc/checkbox_unchecked_focus@2x.png</file>
+    <file>styles/qdark/rc/checkbox_unchecked_pressed.png</file>
+    <file>styles/qdark/rc/checkbox_unchecked_pressed@2x.png</file>
+    <file>styles/qdark/rc/line_horizontal.png</file>
+    <file>styles/qdark/rc/line_horizontal@2x.png</file>
+    <file>styles/qdark/rc/line_horizontal_disabled.png</file>
+    <file>styles/qdark/rc/line_horizontal_disabled@2x.png</file>
+    <file>styles/qdark/rc/line_horizontal_focus.png</file>
+    <file>styles/qdark/rc/line_horizontal_focus@2x.png</file>
+    <file>styles/qdark/rc/line_horizontal_pressed.png</file>
+    <file>styles/qdark/rc/line_horizontal_pressed@2x.png</file>
+    <file>styles/qdark/rc/line_vertical.png</file>
+    <file>styles/qdark/rc/line_vertical@2x.png</file>
+    <file>styles/qdark/rc/line_vertical_disabled.png</file>
+    <file>styles/qdark/rc/line_vertical_disabled@2x.png</file>
+    <file>styles/qdark/rc/line_vertical_focus.png</file>
+    <file>styles/qdark/rc/line_vertical_focus@2x.png</file>
+    <file>styles/qdark/rc/line_vertical_pressed.png</file>
+    <file>styles/qdark/rc/line_vertical_pressed@2x.png</file>
+    <file>styles/qdark/rc/radio_checked.png</file>
+    <file>styles/qdark/rc/radio_checked@2x.png</file>
+    <file>styles/qdark/rc/radio_checked_disabled.png</file>
+    <file>styles/qdark/rc/radio_checked_disabled@2x.png</file>
+    <file>styles/qdark/rc/radio_checked_focus.png</file>
+    <file>styles/qdark/rc/radio_checked_focus@2x.png</file>
+    <file>styles/qdark/rc/radio_checked_pressed.png</file>
+    <file>styles/qdark/rc/radio_checked_pressed@2x.png</file>
+    <file>styles/qdark/rc/radio_unchecked.png</file>
+    <file>styles/qdark/rc/radio_unchecked@2x.png</file>
+    <file>styles/qdark/rc/radio_unchecked_disabled.png</file>
+    <file>styles/qdark/rc/radio_unchecked_disabled@2x.png</file>
+    <file>styles/qdark/rc/radio_unchecked_focus.png</file>
+    <file>styles/qdark/rc/radio_unchecked_focus@2x.png</file>
+    <file>styles/qdark/rc/radio_unchecked_pressed.png</file>
+    <file>styles/qdark/rc/radio_unchecked_pressed@2x.png</file>
+    <file>styles/qdark/rc/toolbar_move_horizontal.png</file>
+    <file>styles/qdark/rc/toolbar_move_horizontal@2x.png</file>
+    <file>styles/qdark/rc/toolbar_move_horizontal_disabled.png</file>
+    <file>styles/qdark/rc/toolbar_move_horizontal_disabled@2x.png</file>
+    <file>styles/qdark/rc/toolbar_move_horizontal_focus.png</file>
+    <file>styles/qdark/rc/toolbar_move_horizontal_focus@2x.png</file>
+    <file>styles/qdark/rc/toolbar_move_horizontal_pressed.png</file>
+    <file>styles/qdark/rc/toolbar_move_horizontal_pressed@2x.png</file>
+    <file>styles/qdark/rc/toolbar_move_vertical.png</file>
+    <file>styles/qdark/rc/toolbar_move_vertical@2x.png</file>
+    <file>styles/qdark/rc/toolbar_move_vertical_disabled.png</file>
+    <file>styles/qdark/rc/toolbar_move_vertical_disabled@2x.png</file>
+    <file>styles/qdark/rc/toolbar_move_vertical_focus.png</file>
+    <file>styles/qdark/rc/toolbar_move_vertical_focus@2x.png</file>
+    <file>styles/qdark/rc/toolbar_move_vertical_pressed.png</file>
+    <file>styles/qdark/rc/toolbar_move_vertical_pressed@2x.png</file>
+    <file>styles/qdark/rc/toolbar_separator_horizontal.png</file>
+    <file>styles/qdark/rc/toolbar_separator_horizontal@2x.png</file>
+    <file>styles/qdark/rc/toolbar_separator_horizontal_disabled.png</file>
+    <file>styles/qdark/rc/toolbar_separator_horizontal_disabled@2x.png</file>
+    <file>styles/qdark/rc/toolbar_separator_horizontal_focus.png</file>
+    <file>styles/qdark/rc/toolbar_separator_horizontal_focus@2x.png</file>
+    <file>styles/qdark/rc/toolbar_separator_horizontal_pressed.png</file>
+    <file>styles/qdark/rc/toolbar_separator_horizontal_pressed@2x.png</file>
+    <file>styles/qdark/rc/toolbar_separator_vertical.png</file>
+    <file>styles/qdark/rc/toolbar_separator_vertical@2x.png</file>
+    <file>styles/qdark/rc/toolbar_separator_vertical_disabled.png</file>
+    <file>styles/qdark/rc/toolbar_separator_vertical_disabled@2x.png</file>
+    <file>styles/qdark/rc/toolbar_separator_vertical_focus.png</file>
+    <file>styles/qdark/rc/toolbar_separator_vertical_focus@2x.png</file>
+    <file>styles/qdark/rc/toolbar_separator_vertical_pressed.png</file>
+    <file>styles/qdark/rc/toolbar_separator_vertical_pressed@2x.png</file>
+    <file>styles/qdark/rc/transparent.png</file>
+    <file>styles/qdark/rc/transparent@2x.png</file>
+    <file>styles/qdark/rc/transparent_disabled.png</file>
+    <file>styles/qdark/rc/transparent_disabled@2x.png</file>
+    <file>styles/qdark/rc/transparent_focus.png</file>
+    <file>styles/qdark/rc/transparent_focus@2x.png</file>
+    <file>styles/qdark/rc/transparent_pressed.png</file>
+    <file>styles/qdark/rc/transparent_pressed@2x.png</file>
+    <file>styles/qdark/rc/window_close.png</file>
+    <file>styles/qdark/rc/window_close@2x.png</file>
+    <file>styles/qdark/rc/window_close_disabled.png</file>
+    <file>styles/qdark/rc/window_close_disabled@2x.png</file>
+    <file>styles/qdark/rc/window_close_focus.png</file>
+    <file>styles/qdark/rc/window_close_focus@2x.png</file>
+    <file>styles/qdark/rc/window_close_pressed.png</file>
+    <file>styles/qdark/rc/window_close_pressed@2x.png</file>
+    <file>styles/qdark/rc/window_grip.png</file>
+    <file>styles/qdark/rc/window_grip@2x.png</file>
+    <file>styles/qdark/rc/window_grip_disabled.png</file>
+    <file>styles/qdark/rc/window_grip_disabled@2x.png</file>
+    <file>styles/qdark/rc/window_grip_focus.png</file>
+    <file>styles/qdark/rc/window_grip_focus@2x.png</file>
+    <file>styles/qdark/rc/window_grip_pressed.png</file>
+    <file>styles/qdark/rc/window_grip_pressed@2x.png</file>
+    <file>styles/qdark/rc/window_minimize.png</file>
+    <file>styles/qdark/rc/window_minimize@2x.png</file>
+    <file>styles/qdark/rc/window_minimize_disabled.png</file>
+    <file>styles/qdark/rc/window_minimize_disabled@2x.png</file>
+    <file>styles/qdark/rc/window_minimize_focus.png</file>
+    <file>styles/qdark/rc/window_minimize_focus@2x.png</file>
+    <file>styles/qdark/rc/window_minimize_pressed.png</file>
+    <file>styles/qdark/rc/window_minimize_pressed@2x.png</file>
+    <file>styles/qdark/rc/window_undock.png</file>
+    <file>styles/qdark/rc/window_undock@2x.png</file>
+    <file>styles/qdark/rc/window_undock_disabled.png</file>
+    <file>styles/qdark/rc/window_undock_disabled@2x.png</file>
+    <file>styles/qdark/rc/window_undock_focus.png</file>
+    <file>styles/qdark/rc/window_undock_focus@2x.png</file>
+    <file>styles/qdark/rc/window_undock_pressed.png</file>
+    <file>styles/qdark/rc/window_undock_pressed@2x.png</file>
+    <file>styles/qlight/rc/arrow_down.png</file>
+    <file>styles/qlight/rc/arrow_down@2x.png</file>
+    <file>styles/qlight/rc/arrow_down_disabled.png</file>
+    <file>styles/qlight/rc/arrow_down_disabled@2x.png</file>
+    <file>styles/qlight/rc/arrow_down_focus.png</file>
+    <file>styles/qlight/rc/arrow_down_focus@2x.png</file>
+    <file>styles/qlight/rc/arrow_down_pressed.png</file>
+    <file>styles/qlight/rc/arrow_down_pressed@2x.png</file>
+    <file>styles/qlight/rc/arrow_left.png</file>
+    <file>styles/qlight/rc/arrow_left@2x.png</file>
+    <file>styles/qlight/rc/arrow_left_disabled.png</file>
+    <file>styles/qlight/rc/arrow_left_disabled@2x.png</file>
+    <file>styles/qlight/rc/arrow_left_focus.png</file>
+    <file>styles/qlight/rc/arrow_left_focus@2x.png</file>
+    <file>styles/qlight/rc/arrow_left_pressed.png</file>
+    <file>styles/qlight/rc/arrow_left_pressed@2x.png</file>
+    <file>styles/qlight/rc/arrow_right.png</file>
+    <file>styles/qlight/rc/arrow_right@2x.png</file>
+    <file>styles/qlight/rc/arrow_right_disabled.png</file>
+    <file>styles/qlight/rc/arrow_right_disabled@2x.png</file>
+    <file>styles/qlight/rc/arrow_right_focus.png</file>
+    <file>styles/qlight/rc/arrow_right_focus@2x.png</file>
+    <file>styles/qlight/rc/arrow_right_pressed.png</file>
+    <file>styles/qlight/rc/arrow_right_pressed@2x.png</file>
+    <file>styles/qlight/rc/arrow_up.png</file>
+    <file>styles/qlight/rc/arrow_up@2x.png</file>
+    <file>styles/qlight/rc/arrow_up_disabled.png</file>
+    <file>styles/qlight/rc/arrow_up_disabled@2x.png</file>
+    <file>styles/qlight/rc/arrow_up_focus.png</file>
+    <file>styles/qlight/rc/arrow_up_focus@2x.png</file>
+    <file>styles/qlight/rc/arrow_up_pressed.png</file>
+    <file>styles/qlight/rc/arrow_up_pressed@2x.png</file>
+    <file>styles/qlight/rc/base_icon.png</file>
+    <file>styles/qlight/rc/base_icon@2x.png</file>
+    <file>styles/qlight/rc/base_icon_disabled.png</file>
+    <file>styles/qlight/rc/base_icon_disabled@2x.png</file>
+    <file>styles/qlight/rc/base_icon_focus.png</file>
+    <file>styles/qlight/rc/base_icon_focus@2x.png</file>
+    <file>styles/qlight/rc/base_icon_pressed.png</file>
+    <file>styles/qlight/rc/base_icon_pressed@2x.png</file>
+    <file>styles/qlight/rc/branch_closed.png</file>
+    <file>styles/qlight/rc/branch_closed@2x.png</file>
+    <file>styles/qlight/rc/branch_closed_disabled.png</file>
+    <file>styles/qlight/rc/branch_closed_disabled@2x.png</file>
+    <file>styles/qlight/rc/branch_closed_focus.png</file>
+    <file>styles/qlight/rc/branch_closed_focus@2x.png</file>
+    <file>styles/qlight/rc/branch_closed_pressed.png</file>
+    <file>styles/qlight/rc/branch_closed_pressed@2x.png</file>
+    <file>styles/qlight/rc/branch_end.png</file>
+    <file>styles/qlight/rc/branch_end@2x.png</file>
+    <file>styles/qlight/rc/branch_end_disabled.png</file>
+    <file>styles/qlight/rc/branch_end_disabled@2x.png</file>
+    <file>styles/qlight/rc/branch_end_focus.png</file>
+    <file>styles/qlight/rc/branch_end_focus@2x.png</file>
+    <file>styles/qlight/rc/branch_end_pressed.png</file>
+    <file>styles/qlight/rc/branch_end_pressed@2x.png</file>
+    <file>styles/qlight/rc/branch_line.png</file>
+    <file>styles/qlight/rc/branch_line@2x.png</file>
+    <file>styles/qlight/rc/branch_line_disabled.png</file>
+    <file>styles/qlight/rc/branch_line_disabled@2x.png</file>
+    <file>styles/qlight/rc/branch_line_focus.png</file>
+    <file>styles/qlight/rc/branch_line_focus@2x.png</file>
+    <file>styles/qlight/rc/branch_line_pressed.png</file>
+    <file>styles/qlight/rc/branch_line_pressed@2x.png</file>
+    <file>styles/qlight/rc/branch_more.png</file>
+    <file>styles/qlight/rc/branch_more@2x.png</file>
+    <file>styles/qlight/rc/branch_more_disabled.png</file>
+    <file>styles/qlight/rc/branch_more_disabled@2x.png</file>
+    <file>styles/qlight/rc/branch_more_focus.png</file>
+    <file>styles/qlight/rc/branch_more_focus@2x.png</file>
+    <file>styles/qlight/rc/branch_more_pressed.png</file>
+    <file>styles/qlight/rc/branch_more_pressed@2x.png</file>
+    <file>styles/qlight/rc/branch_open.png</file>
+    <file>styles/qlight/rc/branch_open@2x.png</file>
+    <file>styles/qlight/rc/branch_open_disabled.png</file>
+    <file>styles/qlight/rc/branch_open_disabled@2x.png</file>
+    <file>styles/qlight/rc/branch_open_focus.png</file>
+    <file>styles/qlight/rc/branch_open_focus@2x.png</file>
+    <file>styles/qlight/rc/branch_open_pressed.png</file>
+    <file>styles/qlight/rc/branch_open_pressed@2x.png</file>
+    <file>styles/qlight/rc/checkbox_checked.png</file>
+    <file>styles/qlight/rc/checkbox_checked@2x.png</file>
+    <file>styles/qlight/rc/checkbox_checked_disabled.png</file>
+    <file>styles/qlight/rc/checkbox_checked_disabled@2x.png</file>
+    <file>styles/qlight/rc/checkbox_checked_focus.png</file>
+    <file>styles/qlight/rc/checkbox_checked_focus@2x.png</file>
+    <file>styles/qlight/rc/checkbox_checked_pressed.png</file>
+    <file>styles/qlight/rc/checkbox_checked_pressed@2x.png</file>
+    <file>styles/qlight/rc/checkbox_indeterminate.png</file>
+    <file>styles/qlight/rc/checkbox_indeterminate@2x.png</file>
+    <file>styles/qlight/rc/checkbox_indeterminate_disabled.png</file>
+    <file>styles/qlight/rc/checkbox_indeterminate_disabled@2x.png</file>
+    <file>styles/qlight/rc/checkbox_indeterminate_focus.png</file>
+    <file>styles/qlight/rc/checkbox_indeterminate_focus@2x.png</file>
+    <file>styles/qlight/rc/checkbox_indeterminate_pressed.png</file>
+    <file>styles/qlight/rc/checkbox_indeterminate_pressed@2x.png</file>
+    <file>styles/qlight/rc/checkbox_unchecked.png</file>
+    <file>styles/qlight/rc/checkbox_unchecked@2x.png</file>
+    <file>styles/qlight/rc/checkbox_unchecked_disabled.png</file>
+    <file>styles/qlight/rc/checkbox_unchecked_disabled@2x.png</file>
+    <file>styles/qlight/rc/checkbox_unchecked_focus.png</file>
+    <file>styles/qlight/rc/checkbox_unchecked_focus@2x.png</file>
+    <file>styles/qlight/rc/checkbox_unchecked_pressed.png</file>
+    <file>styles/qlight/rc/checkbox_unchecked_pressed@2x.png</file>
+    <file>styles/qlight/rc/line_horizontal.png</file>
+    <file>styles/qlight/rc/line_horizontal@2x.png</file>
+    <file>styles/qlight/rc/line_horizontal_disabled.png</file>
+    <file>styles/qlight/rc/line_horizontal_disabled@2x.png</file>
+    <file>styles/qlight/rc/line_horizontal_focus.png</file>
+    <file>styles/qlight/rc/line_horizontal_focus@2x.png</file>
+    <file>styles/qlight/rc/line_horizontal_pressed.png</file>
+    <file>styles/qlight/rc/line_horizontal_pressed@2x.png</file>
+    <file>styles/qlight/rc/line_vertical.png</file>
+    <file>styles/qlight/rc/line_vertical@2x.png</file>
+    <file>styles/qlight/rc/line_vertical_disabled.png</file>
+    <file>styles/qlight/rc/line_vertical_disabled@2x.png</file>
+    <file>styles/qlight/rc/line_vertical_focus.png</file>
+    <file>styles/qlight/rc/line_vertical_focus@2x.png</file>
+    <file>styles/qlight/rc/line_vertical_pressed.png</file>
+    <file>styles/qlight/rc/line_vertical_pressed@2x.png</file>
+    <file>styles/qlight/rc/radio_checked.png</file>
+    <file>styles/qlight/rc/radio_checked@2x.png</file>
+    <file>styles/qlight/rc/radio_checked_disabled.png</file>
+    <file>styles/qlight/rc/radio_checked_disabled@2x.png</file>
+    <file>styles/qlight/rc/radio_checked_focus.png</file>
+    <file>styles/qlight/rc/radio_checked_focus@2x.png</file>
+    <file>styles/qlight/rc/radio_checked_pressed.png</file>
+    <file>styles/qlight/rc/radio_checked_pressed@2x.png</file>
+    <file>styles/qlight/rc/radio_unchecked.png</file>
+    <file>styles/qlight/rc/radio_unchecked@2x.png</file>
+    <file>styles/qlight/rc/radio_unchecked_disabled.png</file>
+    <file>styles/qlight/rc/radio_unchecked_disabled@2x.png</file>
+    <file>styles/qlight/rc/radio_unchecked_focus.png</file>
+    <file>styles/qlight/rc/radio_unchecked_focus@2x.png</file>
+    <file>styles/qlight/rc/radio_unchecked_pressed.png</file>
+    <file>styles/qlight/rc/radio_unchecked_pressed@2x.png</file>
+    <file>styles/qlight/rc/toolbar_move_horizontal.png</file>
+    <file>styles/qlight/rc/toolbar_move_horizontal@2x.png</file>
+    <file>styles/qlight/rc/toolbar_move_horizontal_disabled.png</file>
+    <file>styles/qlight/rc/toolbar_move_horizontal_disabled@2x.png</file>
+    <file>styles/qlight/rc/toolbar_move_horizontal_focus.png</file>
+    <file>styles/qlight/rc/toolbar_move_horizontal_focus@2x.png</file>
+    <file>styles/qlight/rc/toolbar_move_horizontal_pressed.png</file>
+    <file>styles/qlight/rc/toolbar_move_horizontal_pressed@2x.png</file>
+    <file>styles/qlight/rc/toolbar_move_vertical.png</file>
+    <file>styles/qlight/rc/toolbar_move_vertical@2x.png</file>
+    <file>styles/qlight/rc/toolbar_move_vertical_disabled.png</file>
+    <file>styles/qlight/rc/toolbar_move_vertical_disabled@2x.png</file>
+    <file>styles/qlight/rc/toolbar_move_vertical_focus.png</file>
+    <file>styles/qlight/rc/toolbar_move_vertical_focus@2x.png</file>
+    <file>styles/qlight/rc/toolbar_move_vertical_pressed.png</file>
+    <file>styles/qlight/rc/toolbar_move_vertical_pressed@2x.png</file>
+    <file>styles/qlight/rc/toolbar_separator_horizontal.png</file>
+    <file>styles/qlight/rc/toolbar_separator_horizontal@2x.png</file>
+    <file>styles/qlight/rc/toolbar_separator_horizontal_disabled.png</file>
+    <file>styles/qlight/rc/toolbar_separator_horizontal_disabled@2x.png</file>
+    <file>styles/qlight/rc/toolbar_separator_horizontal_focus.png</file>
+    <file>styles/qlight/rc/toolbar_separator_horizontal_focus@2x.png</file>
+    <file>styles/qlight/rc/toolbar_separator_horizontal_pressed.png</file>
+    <file>styles/qlight/rc/toolbar_separator_horizontal_pressed@2x.png</file>
+    <file>styles/qlight/rc/toolbar_separator_vertical.png</file>
+    <file>styles/qlight/rc/toolbar_separator_vertical@2x.png</file>
+    <file>styles/qlight/rc/toolbar_separator_vertical_disabled.png</file>
+    <file>styles/qlight/rc/toolbar_separator_vertical_disabled@2x.png</file>
+    <file>styles/qlight/rc/toolbar_separator_vertical_focus.png</file>
+    <file>styles/qlight/rc/toolbar_separator_vertical_focus@2x.png</file>
+    <file>styles/qlight/rc/toolbar_separator_vertical_pressed.png</file>
+    <file>styles/qlight/rc/toolbar_separator_vertical_pressed@2x.png</file>
+    <file>styles/qlight/rc/transparent.png</file>
+    <file>styles/qlight/rc/transparent@2x.png</file>
+    <file>styles/qlight/rc/transparent_disabled.png</file>
+    <file>styles/qlight/rc/transparent_disabled@2x.png</file>
+    <file>styles/qlight/rc/transparent_focus.png</file>
+    <file>styles/qlight/rc/transparent_focus@2x.png</file>
+    <file>styles/qlight/rc/transparent_pressed.png</file>
+    <file>styles/qlight/rc/transparent_pressed@2x.png</file>
+    <file>styles/qlight/rc/window_close.png</file>
+    <file>styles/qlight/rc/window_close@2x.png</file>
+    <file>styles/qlight/rc/window_close_disabled.png</file>
+    <file>styles/qlight/rc/window_close_disabled@2x.png</file>
+    <file>styles/qlight/rc/window_close_focus.png</file>
+    <file>styles/qlight/rc/window_close_focus@2x.png</file>
+    <file>styles/qlight/rc/window_close_pressed.png</file>
+    <file>styles/qlight/rc/window_close_pressed@2x.png</file>
+    <file>styles/qlight/rc/window_grip.png</file>
+    <file>styles/qlight/rc/window_grip@2x.png</file>
+    <file>styles/qlight/rc/window_grip_disabled.png</file>
+    <file>styles/qlight/rc/window_grip_disabled@2x.png</file>
+    <file>styles/qlight/rc/window_grip_focus.png</file>
+    <file>styles/qlight/rc/window_grip_focus@2x.png</file>
+    <file>styles/qlight/rc/window_grip_pressed.png</file>
+    <file>styles/qlight/rc/window_grip_pressed@2x.png</file>
+    <file>styles/qlight/rc/window_minimize.png</file>
+    <file>styles/qlight/rc/window_minimize@2x.png</file>
+    <file>styles/qlight/rc/window_minimize_disabled.png</file>
+    <file>styles/qlight/rc/window_minimize_disabled@2x.png</file>
+    <file>styles/qlight/rc/window_minimize_focus.png</file>
+    <file>styles/qlight/rc/window_minimize_focus@2x.png</file>
+    <file>styles/qlight/rc/window_minimize_pressed.png</file>
+    <file>styles/qlight/rc/window_minimize_pressed@2x.png</file>
+    <file>styles/qlight/rc/window_undock.png</file>
+    <file>styles/qlight/rc/window_undock@2x.png</file>
+    <file>styles/qlight/rc/window_undock_disabled.png</file>
+    <file>styles/qlight/rc/window_undock_disabled@2x.png</file>
+    <file>styles/qlight/rc/window_undock_focus.png</file>
+    <file>styles/qlight/rc/window_undock_focus@2x.png</file>
+    <file>styles/qlight/rc/window_undock_pressed.png</file>
+    <file>styles/qlight/rc/window_undock_pressed@2x.png</file>
+
+    <file>styles/darkorange/img/checkbox_checked.png</file>
+    <file>styles/darkorange/img/checkbox_unchecked.png</file>
+    <file>styles/darkorange/img/down_arrow.png</file>
+    <file>styles/darkorange/img/handle.png</file>
+
+    <file>styles/darkgray/rc/up_arrow_disabled.png</file>
+    <file>styles/darkgray/rc/Hmovetoolbar.png</file>
+    <file>styles/darkgray/rc/stylesheet-branch-end.png</file>
+    <file>styles/darkgray/rc/branch_closed-on.png</file>
+    <file>styles/darkgray/rc/stylesheet-vline.png</file>
+    <file>styles/darkgray/rc/branch_closed.png</file>
+    <file>styles/darkgray/rc/branch_open-on.png</file>
+    <file>styles/darkgray/rc/transparent.png</file>
+    <file>styles/darkgray/rc/right_arrow_disabled.png</file>
+    <file>styles/darkgray/rc/sizegrip.png</file>
+    <file>styles/darkgray/rc/close.png</file>
+    <file>styles/darkgray/rc/close-hover.png</file>
+    <file>styles/darkgray/rc/close-pressed.png</file>
+    <file>styles/darkgray/rc/down_arrow.png</file>
+    <file>styles/darkgray/rc/Vmovetoolbar.png</file>
+    <file>styles/darkgray/rc/left_arrow.png</file>
+    <file>styles/darkgray/rc/stylesheet-branch-more.png</file>
+    <file>styles/darkgray/rc/up_arrow.png</file>
+    <file>styles/darkgray/rc/right_arrow.png</file>
+    <file>styles/darkgray/rc/left_arrow_disabled.png</file>
+    <file>styles/darkgray/rc/Hsepartoolbar.png</file>
+    <file>styles/darkgray/rc/branch_open.png</file>
+    <file>styles/darkgray/rc/Vsepartoolbar.png</file>
+    <file>styles/darkgray/rc/down_arrow_disabled.png</file>
+    <file>styles/darkgray/rc/undock.png</file>
+    <file>styles/darkgray/rc/checkbox_checked_disabled.png</file>
+    <file>styles/darkgray/rc/checkbox_checked_focus.png</file>
+    <file>styles/darkgray/rc/checkbox_checked.png</file>
+    <file>styles/darkgray/rc/checkbox_indeterminate.png</file>
+    <file>styles/darkgray/rc/checkbox_indeterminate_focus.png</file>
+    <file>styles/darkgray/rc/checkbox_unchecked_disabled.png</file>
+    <file>styles/darkgray/rc/checkbox_unchecked_focus.png</file>
+    <file>styles/darkgray/rc/checkbox_unchecked.png</file>
+    <file>styles/darkgray/rc/radio_checked_disabled.png</file>
+    <file>styles/darkgray/rc/radio_checked_focus.png</file>
+    <file>styles/darkgray/rc/radio_checked.png</file>
+    <file>styles/darkgray/rc/radio_unchecked_disabled.png</file>
+    <file>styles/darkgray/rc/radio_unchecked_focus.png</file>
+    <file>styles/darkgray/rc/radio_unchecked.png</file>
+
+    <file>styles/darkblue/img/up_arrow_disabled.png</file>
+    <file>styles/darkblue/img/Hmovetoolbar.png</file>
+    <file>styles/darkblue/img/stylesheet-branch-end.png</file>
+    <file>styles/darkblue/img/branch_closed-on.png</file>
+    <file>styles/darkblue/img/stylesheet-vline.png</file>
+    <file>styles/darkblue/img/branch_closed.png</file>
+    <file>styles/darkblue/img/branch_open-on.png</file>
+    <file>styles/darkblue/img/transparent.png</file>
+    <file>styles/darkblue/img/right_arrow_disabled.png</file>
+    <file>styles/darkblue/img/sizegrip.png</file>
+    <file>styles/darkblue/img/close.png</file>
+    <file>styles/darkblue/img/close-hover.png</file>
+    <file>styles/darkblue/img/close-pressed.png</file>
+    <file>styles/darkblue/img/down_arrow.png</file>
+    <file>styles/darkblue/img/Vmovetoolbar.png</file>
+    <file>styles/darkblue/img/left_arrow.png</file>
+    <file>styles/darkblue/img/stylesheet-branch-more.png</file>
+    <file>styles/darkblue/img/up_arrow.png</file>
+    <file>styles/darkblue/img/right_arrow.png</file>
+    <file>styles/darkblue/img/left_arrow_disabled.png</file>
+    <file>styles/darkblue/img/Hsepartoolbar.png</file>
+    <file>styles/darkblue/img/branch_open.png</file>
+    <file>styles/darkblue/img/Vsepartoolbar.png</file>
+    <file>styles/darkblue/img/down_arrow_disabled.png</file>
+    <file>styles/darkblue/img/undock.png</file>
+    <file>styles/darkblue/img/checkbox_checked_disabled.png</file>
+    <file>styles/darkblue/img/checkbox_checked_focus.png</file>
+    <file>styles/darkblue/img/checkbox_checked.png</file>
+    <file>styles/darkblue/img/checkbox_indeterminate.png</file>
+    <file>styles/darkblue/img/checkbox_indeterminate_focus.png</file>
+    <file>styles/darkblue/img/checkbox_unchecked_disabled.png</file>
+    <file>styles/darkblue/img/checkbox_unchecked_focus.png</file>
+    <file>styles/darkblue/img/checkbox_unchecked.png</file>
+    <file>styles/darkblue/img/radio_checked_disabled.png</file>
+    <file>styles/darkblue/img/radio_checked_focus.png</file>
+    <file>styles/darkblue/img/radio_checked.png</file>
+    <file>styles/darkblue/img/radio_unchecked_disabled.png</file>
+    <file>styles/darkblue/img/radio_unchecked_focus.png</file>
+    <file>styles/darkblue/img/radio_unchecked.png</file>
+
+    <file>styles/darkblue/img/question.png</file>
+    <file>styles/darkblue/img/warning.png</file>
+    <file>styles/darkblue/img/error.png</file>
+    <file>styles/darkblue/img/critical.png</file>
+  </qresource>
+  <qresource prefix="theme">
+    <file alias="qdark">styles/qdark/style.qss</file>
+    <file alias="qlight">styles/qlight/style.qss</file>
+    <file alias="breezelight">styles/breeze/light.qss</file>
+    <file alias="breezedark">styles/breeze/dark.qss</file>
+    <file alias="easycode">styles/easycode.qss</file>
+    <file alias="integrid">styles/integrid.qss</file>
+    <file alias="medize">styles/medize.qss</file>
+    <file alias="spybot">styles/spybot.qss</file>
+    <file alias="darkorange">styles/darkorange/style.qss</file>
+    <file alias="darkgray">styles/darkgray/style.qss</file>
+    <file alias="darkblue">styles/darkblue/style.qss</file>
+  </qresource>
+</RCC>
